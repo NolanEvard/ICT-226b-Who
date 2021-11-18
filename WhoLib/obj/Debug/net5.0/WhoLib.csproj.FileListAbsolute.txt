@@ -1,0 +1,12 @@
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\bin\Debug\net5.0\WhoLib.deps.json
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\bin\Debug\net5.0\WhoLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\bin\Debug\net5.0\ref\WhoLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\bin\Debug\net5.0\WhoLib.pdb
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.csproj.AssemblyReference.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.AssemblyInfoInputs.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.AssemblyInfo.cs
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.csproj.CoreCompileInputs.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\ref\WhoLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226b\Who\WhoLib\obj\Debug\net5.0\WhoLib.pdb
