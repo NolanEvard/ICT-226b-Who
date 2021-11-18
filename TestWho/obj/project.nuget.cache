@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VB+SRXUOuWvrbvYJ7pwctsXbIAb2cOv1J46Mf8lL0r+byRGOCbGp9T7tU8CQ4SR9/+UZqffA/rXdhMZQOG3N3A==",
+  "dgSpecHash": "Acklhh4mekBlW4Or7SWyAky31HAcXqfi7XLfXU0YzPHV2Y3E3Y63DwsxTOgbGdGTED3UzAVbDpm5ajK8r2oPew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\TestWho.csproj",
+  "projectFilePath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\TestWho.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\TestWho.csproj": {}
+    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\TestWho.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\TestWho.csproj": {
+    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\TestWho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\TestWho.csproj",
+        "projectUniqueName": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\TestWho.csproj",
         "projectName": "TestWho",
-        "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\TestWho.csproj",
+        "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\TestWho.csproj",
         "packagesPath": "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\TestWho\\obj\\",
+        "outputPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\TestWho\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nolan.EVARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\WhoLib.csproj": {
-                "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\WhoLib.csproj"
+              "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\WhoLib.csproj": {
+                "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\WhoLib.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\WhoLib.csproj": {
+    "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\WhoLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\WhoLib.csproj",
+        "projectUniqueName": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\WhoLib.csproj",
         "projectName": "WhoLib",
-        "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\WhoLib.csproj",
+        "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\WhoLib.csproj",
         "packagesPath": "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\Who\\WhoLib\\obj\\",
+        "outputPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226b\\ICT-226b-Who\\WhoLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nolan.EVARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
